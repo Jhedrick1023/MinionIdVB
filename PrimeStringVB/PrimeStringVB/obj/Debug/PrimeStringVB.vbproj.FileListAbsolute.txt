@@ -1,0 +1,11 @@
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\PrimeStringVB.exe.config
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\PrimeStringVB.exe
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\PrimeStringVB.pdb
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\PrimeStringVB.xml
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.vbprojAssemblyReference.cache
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.Resources.resources
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.vbproj.GenerateResource.cache
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.vbproj.CoreCompileInputs.cache
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.exe
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.xml
+c:\users\jhedrick\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\PrimeStringVB.pdb
